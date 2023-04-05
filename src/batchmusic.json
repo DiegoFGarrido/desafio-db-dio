@@ -1,0 +1,74 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Wasting Love"},
+                  "AlbumTitle": {"S": "Fear of the Dark Live"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Prowler"},
+                  "AlbumTitle": {"S": "Iron Maiden"},
+                  "SongYear": {"S": "1980"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Wrathchild"},
+                  "AlbumTitle": {"S": "Killers"},
+                  "SongYear": {"S": "1981"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Children of the Damned"},
+                  "AlbumTitle": {"S": "The Number of the Beast"},
+                  "SongYear": {"S": "1982"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "The Number of the Beast"},
+                  "AlbumTitle": {"S": "The Number of the Beast"},
+                  "SongYear": {"S": "1982"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Hallowed Be Thy Name"},
+                  "AlbumTitle": {"S": "The Number of the Beast"},
+                  "SongYear": {"S": "1982"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Flight of Icarus"},
+                  "AlbumTitle": {"S": "Piece of Mind"},
+                  "SongYear": {"S": "1983"}
+                }
+            }
+        }
+      ]
+}
